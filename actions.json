@@ -1,0 +1,8 @@
+{
+    "rules": [
+        {
+            "pathPattern": "/rubyblink",
+            "apiPath": "https://drive.rubians.lol/blinks/buy-ruby"
+        }
+    ]
+}
